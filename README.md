@@ -13,14 +13,15 @@
 <!-- ![251-2515669_tableau-partner-tableau-partner-logo-hd-png-download](https://user-images.githubusercontent.com/73197748/152563306-29aea802-33cc-4a1d-88b8-8193acc91a43.png) -->
 <br/>
 
-**Visit the interactive dashboard at** - [Uber Stock Trend Analysis Dashboard - Ulendo Zambia](https://public.tableau.com/views/UberDash/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
-)
+**Visit the interactive dashboard at** - [Uber Stock Trend Analysis Dashboard - Ulendo Zambia](https://public.tableau.com/views/UberDash/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ***Dislaimer***- If you are denied access to the dashboard please send me your email so that I can add you to the access group
 <br/>
 <br/>
 
-![Uber](https://user-images.githubusercontent.com/73197748/152566819-f0c4457d-83b1-4eb1-92a5-66acd7fe68ca.png)
+![Uber](https://user-images.githubusercontent.com/73197748/152566819-f0c4457d-83b1-4eb1-92a5-66acd7fe68ca.png)<br/>
+<br/>
+***DataSet*** - ```Available upon request (if no NDA applies)```
 
 
 
