@@ -5,7 +5,7 @@
 <br/>
 **Goal** - ```To track Uber Stock Performance in 2020```.<br/>
 <br/>
-**Context** – The Serenity Day Spa management was preparing a new marketing campaign and wanted some insight into the best segmentation strategy. Historical data usually provides an accurate base for forecasting so with their current database I designed a customer analysis dashboard to enable them to view their revenue generation by different segments. Each chart on the dashboard was linked so could be used as a filter for the other charts. This enabled the client to be view how each customer attribute related to another and draw conclusions. <br/>
+**Context** – Ulendo is a mobility service provider similar to Uber, operating in Zambia. The company requested an overview of Uber stock price movements over a period of one year, 2020. The Uber Stock Trend Analysis dashboard did just that, I used a candlestick chart to enable them to see day by day movements and a dual axis bar and line graph for monthly movements. The line graph gives the percentage changes between the open and close prices, while the adjusted closing price and sales volume. The candlestick chart acts as a filter for all three graphs enabling both daily and monthly tracking for optimum use. <br/>
 <br/>
 **Developed in** <br/>
 <br/>
